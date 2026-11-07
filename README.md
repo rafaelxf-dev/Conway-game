@@ -37,7 +37,7 @@ cd Conway-game
 ```
 
 ### 2. Executar a aplicação
-```
 Inicie o script pelo terminal (ele solicitará a dimensão do tabuleiro no prompt de comando):
+```
 python conway.py
 ```
